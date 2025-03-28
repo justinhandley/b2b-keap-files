@@ -44,3 +44,6 @@ ENV/
 
 # Temporary files
 temp/
+
+# Google Auth Key
+google-key.json
